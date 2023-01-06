@@ -87,3 +87,150 @@ color: #444343;
 position: absolute;
 
 }
+.section-title{
+margin-top: 400px;
+text-align: center;
+font-size: 70px;
+}
+.skills-container{
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.skill{
+    width: 218px;
+height: 197px;
+left: 853px;
+top: 1889.3px;
+text-align: center;
+
+
+}
+.skill-title{
+    font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+color: #151414;
+
+}
+.skill-description{
+    font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+color: #737272;
+
+}
+.call-title{
+    
+    margin: 150px;
+    background-image: url(/images/gradient2.png);
+    
+    width: 1140px;
+height: 300px;
+left: 230px;
+top: 2216.3px;
+
+background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+border-radius: 8px;
+    
+}
+.about-title{
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2275.3px;
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #ffffff;
+text-align: center;
+margin-top: 37px;
+
+}
+.btn-call-now{
+    width: 160px;
+height: 64px;
+left: 294px;
+top: 2393.3px;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+color: #F15B22;
+background: #FFFFFF;
+border-radius: 5px;
+margin-top: 40px;
+margin-left: 150px;
+
+}
+
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #151414;
+}
+.contact-title{
+    width: 148px;
+height: 53px;
+left: 230px;
+top: 2776.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+color: #F8F8F8;
+
+}
+.contact-view{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.contact-views{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.sub-contact-title{
+    width: 485px;
+height: 78px;
+left: 230px;
+top: 2845.3px;
+
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FFFFFF;
+}
+.contact-titles{
+    width: 123px;
+height: 29px;
+left: 1046px;
+top: 2776.3px;
+
+
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+.btn-subscribe{
+    width: 170.11px;
+height: 64px;
+left: 1046px;
+top: 2916.3px;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #F15B22;
+width: 150px;
+height: 50px;
+left: 1082.02px;
+top: 2936.3px;
+}
