@@ -47,3 +47,43 @@ font-weight: 600;
 font-size: 20px;
 line-height: 23px;
 }
+.banner{
+    display: flex;
+    align-items: center;
+    width: 1072px;
+height: 723.3px;
+left: 264px;
+top: 965px;
+
+   
+}
+.banner-image{
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+}
+.banner-title{
+    width: 288px;
+height: 94px;
+left: 862px;
+top: 1178px;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+position: absolute;
+}
+.banner-sub-title{
+    width: 416px;
+height: 104px;
+left: 862px;
+top: 1296px;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+position: absolute;
+
+}
