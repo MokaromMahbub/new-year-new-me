@@ -85,6 +85,9 @@ font-size: 16px;
 line-height: 26px;
 color: #444343;
 position: absolute;
+}
+.banner-sub-titles{
+    margin: 700px 50px 0px 860px;
 
 }
 .section-title{
@@ -169,8 +172,9 @@ margin-left: 150px;
 
 .contact{
     display: flex;
-    gap: 100px;
+    gap: 700px;
     background: #151414;
+    
 }
 .contact-title{
     width: 148px;
@@ -189,6 +193,7 @@ color: #F8F8F8;
 .contact-view{
     margin-top: 20px;
     margin-left: 20px;
+    border: 60px;
 }
 .contact-views{
     margin-top: 20px;
@@ -220,7 +225,7 @@ color: #FFFFFF;
 
 }
 .btn-subscribe{
-    width: 170.11px;
+    width: 100.11px;
 height: 64px;
 left: 1046px;
 top: 2916.3px;
@@ -234,3 +239,4 @@ height: 50px;
 left: 1082.02px;
 top: 2936.3px;
 }
+
